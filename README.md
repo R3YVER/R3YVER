@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @R3YVER
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+R3YVER/R3YVER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. 
+Önceliğimiz kuralllar
+1.Kural : Kullanıcıyı Koru
+2.Kural : Kullanıcının Sağlık değerlerini Analiz et
+3.Kural : ona destek ol
